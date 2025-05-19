@@ -8,8 +8,6 @@ googleapis-common-protos==1.70.0
 gspread==6.2.1
 oauthlib==3.2.2
 openai==1.70.0
-openpyxl @ file:///croot/openpyxl_1736366913861/work
-overrides @ file:///croot/overrides_1699371140756/work
 pandas==2.2.3
 pandas-profiling==3.2.0
 streamlit==1.45.0
