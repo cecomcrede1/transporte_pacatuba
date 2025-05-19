@@ -10,7 +10,6 @@ gspread==6.2.1
 oauthlib==3.2.2
 openai==1.70.0
 pandas==2.2.3
-pandas-profiling==3.2.0
 streamlit==1.45.0
 
 
