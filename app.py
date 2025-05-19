@@ -92,12 +92,12 @@ def callback_reiniciar_tudo():
 col_logo1, col_titulo, col_logo2 = st.columns([1.5, 7, 1.5], vertical_alignment="bottom")
 
 with col_logo1:
-    # st.image('logo_CECOM_cinza2.png', width=150)
+    st.image('logo_CECOM_cinza2.png', width=150)
     st.write("")
 with col_titulo:
     st.title("Cadastro de Alunos para Transporte Escolar - Pacatuba")
 with col_logo2:
-    # st.image('cinza2.png', width=150)
+    st.image('cinza2.png', width=150)
     st.write("")
 
 
